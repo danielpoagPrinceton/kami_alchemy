@@ -5,4 +5,6 @@ Inspired by games like [Little Alchemy](https://littlealchemy.com/), this is a g
 
 As this is a proof of concept, I have not been exhaustive. I include only as many Kami as necessary to demonstrate the idea of the game.
 
+Scroll to zoom, use right click to pan, use left click to move Kami, and place a Kami on top of another to cause their interaction.
+
 Check it out [HERE](https://danielpoagprinceton.github.io/kami_alchemy/)
